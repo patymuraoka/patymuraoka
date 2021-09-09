@@ -4,7 +4,7 @@
 
 #### About me 
 - :woman_student: I'm a Design Graphic student at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br/) 
-- :computer: I'm in Back-End Programming tranning course at [Senai](https://www.sp.senai.br/). 
+- :computer: I'm in Front-End Programming tranning course at [Senai](https://www.sp.senai.br/). 
 
 How reach me: :e-mail: patymuraoka@gmail.com
 
