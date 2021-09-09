@@ -4,11 +4,11 @@
 
 ### About me 
 
-#### I'm currently a intern working part-time at [Prefeitura Municipal de Santa Barbára D'Oeste](http://www.santabarbara.sp.gov.br/v5/)
+#### I'm an intern working part-time at [Prefeitura Municipal de Santa Barbára D'Oeste](http://www.santabarbara.sp.gov.br/v5/)
 
-#### I'm a student:
+#### I'm currently a student:
 - :woman_student: Design Graphic degree at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br/) 
-- :computer: Front-End Programming tranning course at [Senai](https://www.sp.senai.br/). 
+- :computer: Front-End Programming tranning course at [Serviço Nacional de Aprendizagem Industrial - Senai](https://www.sp.senai.br/). 
 
 How reach me: :e-mail: patymuraoka@gmail.com
 
