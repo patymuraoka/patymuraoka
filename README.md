@@ -4,9 +4,9 @@
 
 ### About me 
 
-#### I'm an intern working part-time at [Prefeitura Municipal de Santa Barbára D'Oeste](http://www.santabarbara.sp.gov.br/v5/)
+#### I'm working as a part-time designer graphic intern at [Prefeitura Municipal de Santa Barbára D'Oeste](http://www.santabarbara.sp.gov.br/v5/)
 
-#### I'm currently a student:
+#### I'm currently studying:
 - :woman_student: Design Graphic degree at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br/) 
 - :computer: Front-End Programming tranning course at [Serviço Nacional de Aprendizagem Industrial - Senai](https://www.sp.senai.br/). 
 
